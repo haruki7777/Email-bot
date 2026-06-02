@@ -1,0 +1,11 @@
+.env
+.env.*
+!.env.example
+node_modules/
+dist/
+build/
+.gradle/
+__pycache__/
+*.pyc
+data/
+*.log
